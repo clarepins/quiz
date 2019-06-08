@@ -3,8 +3,8 @@ require 'quiz_stub_stdin'
 describe Quiz_1 do
 
   it 'user calls run to loop through questions' do
-    require 'pry'
-    binding.pry
+    # require 'pry'
+    # binding.pry
     output = "Where is Makers Academy situated? a) London b) New York
 Spot on!
 Where is Big Ben situated? a) New York b) London c) Alaska
